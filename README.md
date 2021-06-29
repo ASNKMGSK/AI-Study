@@ -7,7 +7,7 @@
 
 |              |               Project Name                    |  Date    |      Experience        |
 |:------------:|:---------------------------------------------:|:--------:|:----------------------:|
-|EXPLORATION_01|[가위바위보 분류기](./Week2/[E-01] rock,scissor,paper game.ipynb)            |2021-01-05|Image Classification, CNN|
+|EXPLORATION_01|[가위바위보 분류기](.\Week2\[E-01] rock,scissor,paper game.ipynb)            |2021-01-05|Image Classification, CNN|
 |EXPLORATION_02|Iris 품종 분류하기           |2021-01-07|scikit-learn, ML        |
 |EXPLORATION_03|카메라 스티커 앱 만들기       |2021-01-12|Face Detection          |
 |EXPLORATION_04|영화리뷰 텍스트 감성분석하기  |2021-01-14|Sequence Data, RNN      |
