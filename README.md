@@ -28,7 +28,7 @@
 |EXPLORATION_19|[인간보다 퀴즈를 잘 푸는 인공지능](./Week11/) |2021-03-16|RNN, LSTM, BERT      |
 |EXPLORATION_20|[난 스케치를 할테니 넌 채색을 하거라](./Week11/)|2021-03-18|GAN, cGAN           |
 
-## GOING DEEPER
+## [미완성] GOING DEEPER
 
 |               |               Project Name                       |  Date    |              Experience           |
 |:-------------:|:------------------------------------------------:|:--------:|:---------------------------------:|
@@ -36,5 +36,5 @@
 |GOING DEEPER_04|[Augmentation](./Week12/)               |2021-04-09|Data Augmentation, Cutmix, Mixup   |
 |GOING DEEPER_10|[Class Activation Map 만들기](./Week14/)  |2021-04-20|CAM, Grad-CAM                       |
 |GOING DEEPER_12|[직접 만들어보는 OCR](./Week14)           |2021-04-23|OCR, Text Detection, Text Recognition|
-|GOING DEEPER_18|[Incomplete SSD](./Week15)|2021-05-04|Face Detection, SSD               |
+|GOING DEEPER_18|[SSD](./Week15)|2021-05-04|Face Detection, SSD               |
 
