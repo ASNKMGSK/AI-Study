@@ -4,7 +4,7 @@
 ---
 |  Date    |      Experience        |
 |:--------:|:----------------------:|
-|2021-01-05|[Image Classification, CNN](./week2)|
+|2021-01-05|[Image Classification, CNN](./Week2)|
 |2021-01-07|scikit-learn, ML        |
 |2021-01-12|Face Detection          |
 |2021-01-14|Sequence Data, RNN      |
