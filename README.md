@@ -2,8 +2,8 @@
 
 ---
 ## EXPLORATION
-|:------------:|:---------|------------------------|
 |              |  Date    |      Experience        |
+|:------------:|:--------:|:----------------------:|
 |EXPLORATION_01|2021-01-05|Image Classification, CNN|
 |EXPLORATION_02|2021-01-07|scikit-learn, ML        |
 |EXPLORATION_03|2021-01-12|Face Detection          |
